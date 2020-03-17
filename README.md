@@ -16,7 +16,7 @@ Response:
 </pre>
 
 2. The remove_an_IP_from_IPSet.py file contains a lambda function to remove an IP Address from the IPSet
-
+<pre>
 ------[OUTPUT]-------
 Response:
 {
@@ -26,3 +26,4 @@ Response:
   ]
 }
 ---------------------
+</pre>
